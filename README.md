@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on Fullstaack Blog app using MERN<br>👯 I’m looking to collaborate on React and Express Projects<br>🤝 I’m looking for help with PostgreSQL<br>🌱 I’m currently learning Django<br>💬 Ask me about React<br>⚡ Fun fact I'm also trying to learn React Native<br>
+🔭 I’m currently building Real-Time Chat App (MERN)<br>👯 I’m looking to collaborate on React and Express Projects<br>🤝 I’m looking for help with PostgreSQL<br>🌱 ⚡ I’m currently learning Django<br>💬 Ask me about React<br><br>
 
 
 ## 🌐 Socials:
