@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently building Real-Time Chat App (MERN)<br>👯 I’m looking to collaborate on React and Express Projects<br>🤝 I’m looking for help with PostgreSQL<br>🌱 ⚡ I’m currently learning Django<br>💬 Ask me about React<br><br>
+🔭 I’m currently building Real-Time Chat App (MERN)<br>👯 I’m looking to collaborate on React and Express Projects<br>🤝 I’m looking for help with PostgreSQL<br>🌱 ⚡ I’m currently learning Generative AI<br>💬 Ask me about React<br><br>
 
 
 ## 🌐 Socials:
