@@ -5,7 +5,7 @@ Hello there! I'm Shaik Majeeb, a Backend / React web developer based near Montre
 People who know me say I'm obsessed, that's fair, I am very driven and love learning new things.
 
 # 💫 About Me:
-🔭 I’m currently building AI Interview Prep App (MERN)<br>👯 I’m looking to collaborate on React and Express Projects,<br>👯 Also looking to collaborate on React Native and Django/DRF Projects<br>🤝 I’m looking for help with Genrative AI<br>🌱 ⚡ I’m currently learning Generative AI<br>💬 Ask me about Java Script, Python, React/React Native, MERN, Django
+🔭 I’m currently learning PHP <br>👯 I’m looking to collaborate on React and Express Projects,<br>👯 Also looking to collaborate on React Native and Django/DRF Projects<br>🤝 I’m looking for help with Genrative AI<br>🌱 ⚡ I’m currently learning Generative AI<br>💬 Ask me about Java Script, Python, React/React Native, MERN, Django
 
 
 ## 🌐 Socials:
