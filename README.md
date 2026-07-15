@@ -1,142 +1,157 @@
-# Hi there 👋 I'm Shaik Majeeb
-
+<h1 align="center">Hi 👋, I'm Shaik Adbul Majeeb</h1>
 <h3 align="center">🚀 Full Stack Web Developer | Next.js • React • Node.js • TypeScript</h3>
 
 <p align="center">
-Building scalable, production-ready web applications with modern technologies.
+  Passionate about building scalable, production-ready web applications with modern technologies.
+</p>
+
+<p align="center">
+  <a href="https://majeeb-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohammad-abdul-majeeb-shaik-866422344/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:majeeb0910@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/m_aj_eeb/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
-I'm a passionate **Full Stack Developer** from India 🇮🇳 who enjoys building fast, scalable, and production-ready web applications.
+💻 Full Stack Developer passionate about creating modern, scalable web applications.
 
-I specialize in the modern JavaScript/TypeScript ecosystem and love designing complete systems—from databases and APIs to responsive user interfaces.
+I enjoy building complete software solutions—from backend architecture and APIs to responsive frontends and intuitive user experiences.
 
-Currently, I'm focused on building:
+### 🚀 Currently Working On
 
-- 🛍️ E-commerce Platforms
+- 🛍️ Production Ready E-commerce Applications
 - 📊 Analytics & Business Intelligence Dashboards
 - 🔐 Authentication & Authorization Systems
-- 🤖 AI-powered Applications
-- ☁️ Cloud-native Web Applications
+- 🤖 AI-powered Web Applications
+- ☁️ Cloud-native Full Stack Applications
 
-I enjoy solving real-world problems, continuously learning new technologies, and contributing to open-source projects.
+### 🌱 Currently Learning
 
----
+- Generative AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- System Design
+- Cloud Architecture
+- DevOps
 
-## 🚀 What I'm Doing
+### 💬 Ask Me About
 
-- 🔭 Currently building **Production-Ready Next.js Applications**
-- 🌱 Learning **Generative AI**, **LLMs**, **RAG**, and AI Integrations
-- 📚 Exploring **System Design**, **Cloud Architecture**, and **DevOps**
-- 🤝 Open to collaborating on **Open Source**, **Next.js**, and **Full Stack** projects
-- 💬 Ask me about:
-  - Next.js
-  - React
-  - TypeScript
-  - Node.js
-  - Express.js
-  - Authentication
-  - REST APIs
-  - Database Design
-  - E-commerce Systems
-
----
-
-# 🌐 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=vercel&logoColor=white)](https://majeeb-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-abdul-majeeb-shaik-866422344/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m_aj_eeb/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:majeeb0910@gmail.com)
+- Next.js
+- React
+- TypeScript
+- Node.js
+- Express.js
+- REST APIs
+- Authentication
+- Database Design
+- Full Stack Development
 
 ---
 
-# 💻 Tech Stack
+# 🛠 Tech Stack
 
-### Frontend
+### 🎨 Frontend
 
-![Next JS](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform)
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,redux,vite,bootstrap,html,css" />
+</p>
 
-### Backend
+### ⚙️ Backend
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,python" />
+</p>
 
-### Database & ORM
+### 🗄 Database & ORM
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat&logo=redis)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=prisma)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle-000000?style=flat)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,firebase,supabase" />
+</p>
 
-### Cloud & DevOps
+<p>
+<img src="https://img.shields.io/badge/Drizzle_ORM-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma"/>
+</p>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+### ☁️ Cloud & DevOps
 
-### Services & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,netlify,digitalocean" />
+</p>
 
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe)
-![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat)
-![Resend](https://img.shields.io/badge/Resend-000000?style=flat)
+### 🔧 Tools & Services
+
+<p>
+<img src="https://skillicons.dev/icons?i=postman,cloudflare" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger"/>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe"/>
+<img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge"/>
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-- 🛍️ Production Ready E-commerce Platform
+- 🛍️ Full Stack E-commerce Platform
 - 📊 Analytics & Business Intelligence Dashboard
-- 🔐 JWT Authentication & Authorization
-- 🤖 AI-powered Web Applications
-- 📱 React Native Applications
-- ⚡ Modern Next.js Full Stack Applications
+- 🔐 JWT Authentication System
+- 🤖 AI-powered Applications
+- 📱 React Native Apps
+- ⚡ Modern Next.js Applications
 
 ---
 
 # 🌐 Portfolio
 
-### 🚀 Live Portfolio
+### 🚀 Live Website
 
-**https://majeeb-portfolio.vercel.app/**
+### https://majeeb-portfolio.vercel.app/
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=Majeeb-0910&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<p align="center">
 
-![](https://nirzak-streak-stats.vercel.app/?user=Majeeb-0910&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Majeeb-0910&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Majeeb-0910&layout=compact&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://streak-stats.demolab.com?user=Majeeb-0910&theme=github-dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majeeb-0910&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-[![Majeeb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Majeeb-0910&theme=tokyo-night&hide_border=true)](https://github.com/Majeeb-0910)
+[![Majeeb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Majeeb-0910&theme=github-dark&hide_border=true)](https://github.com/Majeeb-0910)
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Majeeb-0910&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</p>
 
 ---
 
@@ -148,8 +163,38 @@ I enjoy solving real-world problems, continuously learning new technologies, and
 
 # 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=Majeeb-0910&style=for-the-badge)
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Majeeb-0910&style=for-the-badge"/>
+
+</p>
 
 ---
 
-⭐ **Thanks for visiting my profile! Feel free to check out my repositories and connect with me.**
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://majeeb-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mohammad-abdul-majeeb-shaik-866422344/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:majeeb0910@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+</div>
