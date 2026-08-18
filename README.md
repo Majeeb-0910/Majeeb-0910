@@ -129,11 +129,17 @@ I enjoy building complete software solutions—from backend architecture and API
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Majeeb-0910&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+<a href="https://github.com/Majeeb-0910">
+  <img src="https://img.shields.io/github/followers/Majeeb-0910?label=Followers&style=for-the-badge&logo=github" alt="Followers" />
+</a>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=Majeeb-0910&theme=github-dark&hide_border=true"/>
+<a href="https://github.com/Majeeb-0910?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-View-0cf?style=for-the-badge&logo=github" alt="Repositories" />
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majeeb-0910&layout=compact&theme=github_dark&hide_border=true"/>
+<a href="https://github.com/Majeeb-0910/Majeeb-0910">
+  <img src="https://img.shields.io/badge/Repositories-View-0cf?style=for-the-badge&logo=github" alt="Repositories" />
+</a>
 
 </p>
 
@@ -149,7 +155,7 @@ I enjoy building complete software solutions—from backend architecture and API
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Majeeb-0910&theme=algolia&no-frame=true&row=1&column=7"/>
+<img src="https://img.shields.io/badge/GitHub-Trophies-success?style=for-the-badge&logo=github" alt="GitHub Trophies"/>
 
 </p>
 
